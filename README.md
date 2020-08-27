@@ -46,8 +46,8 @@ I am pursuing a Third year Machine Learning Ph.D. candidate at [Federation Unive
 
 ----
 
-[![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=themlphdstudent&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=themlphdstudent&theme=onedark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=onedark&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
