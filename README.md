@@ -47,8 +47,9 @@ I am pursuing a Third year Machine Learning Ph.D. candidate at [Federation Unive
 ----
 
 [![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=themlphdstudent&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
