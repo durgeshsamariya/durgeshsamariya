@@ -32,6 +32,17 @@ I am pursuing a Third year Machine Learning Ph.D. candidate at [Federation Unive
 - [World Population from 1955 to 2020 Bar Chart Race](https://towardsdatascience.com/world-population-from-1955-to-2020-bar-chart-race-166ff307c48e)
 <!-- BLOG-POST-LIST:END -->
 
+## What I am Reading:
+
+**My Monthly Reading List**
+- [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
+
+**My Weekly Reading List**
+- [Weekly Machine Learning Research Paper Reading List — #4](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-4-64442005324d)
+- [Weekly Machine Learning Research Paper Reading List — #3](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-3-61d9c86c2538)
+- [Weekly Machine Learning Research Paper Reading List — #2](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-2-c9ed61b76462)
+- [Weekly Machine Learning Research Paper Reading List — #1](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-1-780a5ffac7d7)
+
 ## Connect with me:
 
 <p align = "center">
