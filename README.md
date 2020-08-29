@@ -27,6 +27,8 @@ I am pursuing a Third year Machine Learning Ph.D. candidate at [Federation Unive
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
+- [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
 - [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
 - [Box Office Revenue Analysis and Visualization](https://towardsdatascience.com/box-office-revenue-analysis-and-visualization-ce5b81a636d7)
 - [World Population from 1955 to 2020 Bar Chart Race](https://towardsdatascience.com/world-population-from-1955-to-2020-bar-chart-race-166ff307c48e)
