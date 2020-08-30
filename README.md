@@ -59,11 +59,12 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 </p>
 
 ----
-
-[![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=themlphdstudent&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=themlphdstudent)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+[![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=themlphdstudent&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!-- 
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
