@@ -27,6 +27,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Campus Recruitment: EDA and Classification — Part 2](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-2-ff8bdc634e7)
 - [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
 - [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
 - [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
@@ -41,11 +42,12 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
 
 **My Weekly Reading List**
+- [Weekly Machine Learning Research Paper Reading List — #7](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-7-e01c9db52fcd)
+- [Weekly Machine Learning Research Paper Reading List — #6](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-6-828a5bb1b3a5)
 - [Weekly Machine Learning Research Paper Reading List — #5](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-5-7dc6740b9505)
 - [Weekly Machine Learning Research Paper Reading List — #4](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-4-64442005324d)
 - [Weekly Machine Learning Research Paper Reading List — #3](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-3-61d9c86c2538)
-- [Weekly Machine Learning Research Paper Reading List — #2](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-2-c9ed61b76462)
-- [Weekly Machine Learning Research Paper Reading List — #1](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-1-780a5ffac7d7)
+- [More..](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-2-c9ed61b76462)
 
 ## Connect with me:
 
