@@ -47,7 +47,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - [Weekly Machine Learning Research Paper Reading List — #5](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-5-7dc6740b9505)
 - [Weekly Machine Learning Research Paper Reading List — #4](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-4-64442005324d)
 - [Weekly Machine Learning Research Paper Reading List — #3](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-3-61d9c86c2538)
-- [More..](https://medium.com/the-innovation/weekly-machine-learning-research-paper-reading-list-2-c9ed61b76462)
+- [More..](https://medium.com/@themlphdstudent)
 
 ## Connect with me:
 
