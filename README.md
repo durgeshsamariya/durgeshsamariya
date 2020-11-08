@@ -20,7 +20,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 **Recent Update**:
-- **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](http://wasp.cs.vu.nl/WISE2020/accept.html) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
+- **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](https://link.springer.com/chapter/10.1007/978-3-030-62008-0_32) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
 
 **Service to research comunity**:
 - PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
