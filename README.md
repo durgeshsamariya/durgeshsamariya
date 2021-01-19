@@ -42,11 +42,11 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
 
 **My Weekly Reading List**
+- [Weekly Machine Learning Research Paper Reading List — #10](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-10-f4b487dd3e6a)
+- [Weekly Machine Learning Research Paper Reading List — #9](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-9-ebe4e60da57b)
 - [Weekly Machine Learning Research Paper Reading List — #8](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-8-f6415645685e)
 - [Weekly Machine Learning Research Paper Reading List — #7](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-7-e01c9db52fcd)
 - [Weekly Machine Learning Research Paper Reading List — #6](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-6-828a5bb1b3a5)
-- [Weekly Machine Learning Research Paper Reading List — #5](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-5-7dc6740b9505)
-- [Weekly Machine Learning Research Paper Reading List — #4](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-4-64442005324d)
 - [More..](https://medium.com/@themlphdstudent)
 
 ## Connect with me:
