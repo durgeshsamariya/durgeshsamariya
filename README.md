@@ -27,12 +27,12 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
+- [20+ Data Science Projects with Code](https://medium.com/@themlphdstudent/20-data-science-projects-with-code-f447ac5b444d)
 - [Campus Recruitment: EDA and Classification — Part 2](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-2-ff8bdc634e7)
 - [Campus Recruitment: EDA and Classification — Part 1](https://medium.com/towards-artificial-intelligence/campus-recruitment-eda-and-classification-part-1-ca07945f3e47)
 - [Data Analysis and Visualization using Pandas, Matplotlib and Seaborn](https://medium.com/python-in-plain-english/data-analysis-and-visualization-using-pandas-matplotlib-and-seaborn-5bc27e8d00c3)
 - [Analysing and Visualising the Country wise Population from 1955 to 2020 with Pandas, Matplotlib, Seaborn and Plotly](https://towardsdatascience.com/analysing-and-visualising-the-country-wise-population-from-1955-to-2020-with-pandas-matplotlib-70b3614eed6b)
-- [Box Office Revenue Analysis and Visualization](https://towardsdatascience.com/box-office-revenue-analysis-and-visualization-ce5b81a636d7)
-- [World Population from 1955 to 2020 Bar Chart Race](https://towardsdatascience.com/world-population-from-1955-to-2020-bar-chart-race-166ff307c48e)
 <!-- BLOG-POST-LIST:END -->
 
 ## What I am Reading:
@@ -42,11 +42,11 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - [August 2020 monthly Machine Learning Reading List](https://medium.com/the-innovation/august-2020-monthly-machine-learning-reading-list-by-durgesh-samariya-20028aa1d5cc)
 
 **My Weekly Reading List**
+- [Weekly Machine Learning Research Paper Reading List — #11](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-11-3967a60041a2)
 - [Weekly Machine Learning Research Paper Reading List — #10](https://medium.com/@themlphdstudent/weekly-machine-learning-research-paper-reading-list-10-f4b487dd3e6a)
 - [Weekly Machine Learning Research Paper Reading List — #9](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-9-ebe4e60da57b)
 - [Weekly Machine Learning Research Paper Reading List — #8](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-8-f6415645685e)
 - [Weekly Machine Learning Research Paper Reading List — #7](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-7-e01c9db52fcd)
-- [Weekly Machine Learning Research Paper Reading List — #6](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-6-828a5bb1b3a5)
 - [More..](https://medium.com/@themlphdstudent)
 
 ## Connect with me:
