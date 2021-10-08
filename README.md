@@ -20,8 +20,13 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 **Recent Update**:
-- **January 2021**: MLGenerator web app is live. [[Website]](https://ml-generator.herokuapp.com).
-- **July 2020**: Our paper [A new effective and efficient measure for outlying aspect mining](https://link.springer.com/chapter/10.1007/978-3-030-62008-0_32) has been accepted at the 21st International Conference on Web Information Systems Engineering 2020 ([WISE 2020](http://wasp.cs.vu.nl/WISE2020/)).
+- **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
+- **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
+- **September 2021**: Completed Udemy course on Python for Data Science and Machine Learning Boot Camp. [[Certificate]](https://ude.my/UC-f54c57ae-f33a-4fd1-a815-f994d0d97211)
+- **September 2021**: Completed Udemy course on Data Analysis with Pandas and Python. [[Certificate]](https://ude.my/UC-17dc3272-a4b5-44a6-8cb2-cdb1c8f66402)
+- **September 2021**: Attendend NVIDIA Deep Learning Workshop on Fundamental of Deep Learning. 
+- **August 2021**: A paper accepted at the 10th International Conference on Health Information Science (HIS 2021).
+
 
 **Service to research comunity**:
 - PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
