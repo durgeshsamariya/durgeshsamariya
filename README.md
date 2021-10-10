@@ -20,6 +20,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 **Recent Update**:
+- **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
 - **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
 - **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
 - **September 2021**: Completed Udemy course on Python for Data Science and Machine Learning Boot Camp. [[Certificate]](https://ude.my/UC-f54c57ae-f33a-4fd1-a815-f994d0d97211)
