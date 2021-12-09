@@ -56,6 +56,12 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - [Weekly Machine Learning Research Paper Reading List — #9](https://medium.com/towards-artificial-intelligence/weekly-machine-learning-research-paper-reading-list-9-ebe4e60da57b)
 - [More..](https://medium.com/@themlphdstudent)
 
+<h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
+<!--START_SECTION:badges-->
+
+
+<!--END_SECTION:badges-->
+
 ## Connect with me:
 
 <p align = "center">
