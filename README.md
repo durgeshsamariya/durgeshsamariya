@@ -7,6 +7,7 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
 
 **My Reseach Interest**:
+- Outlying Aspect Mining
 - Classification
 - Clustering
 - Anomaly Detection
@@ -20,14 +21,10 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 **Recent Update**:
+- **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com/confirm/SWLALPXD)
 - **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
 - **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
 - **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
-- **September 2021**: Completed Udemy course on Python for Data Science and Machine Learning Boot Camp. [[Certificate]](https://ude.my/UC-f54c57ae-f33a-4fd1-a815-f994d0d97211)
-- **September 2021**: Completed Udemy course on Data Analysis with Pandas and Python. [[Certificate]](https://ude.my/UC-17dc3272-a4b5-44a6-8cb2-cdb1c8f66402)
-- **September 2021**: Attendend NVIDIA Deep Learning Workshop on Fundamental of Deep Learning. 
-- **August 2021**: A paper accepted at the 10th International Conference on Health Information Science (HIS 2021).
-
 
 **Service to research comunity**:
 - PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
